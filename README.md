@@ -44,6 +44,5 @@ location: São Paulo, Brazil
 
 [![LinkedIn](https://img.shields.io/badge/linkedin.com%2Fin%2Fmarcossantoss-7F77DD?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcossantoss/)
 [![Gmail](https://img.shields.io/badge/marcosvbsantos26%40gmail.com-1a1a2e?style=flat-square&logo=gmail&logoColor=AFA9EC)](mailto:marcosvbsantos26@gmail.com)
-[![Portfolio](https://img.shields.io/badge/↗_my--portfolio-1a1a2e?style=flat-square&logoColor=AFA9EC)](https://marcosssantoss.github.io/my-portfolio)
-
+[![Portfolio](https://img.shields.io/badge/🚧_my--portfolio-1a1a2e?style=flat-square&logoColor=AFA9EC)](https://marcosssantoss.github.io/my-portfolio/maintenance.html)
 </div>
