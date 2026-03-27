@@ -15,7 +15,6 @@
 role:     Full Stack Developer
 degree:   Systems Analysis · Graduate
 location: São Paulo, Brazil
-status:   open to collaborate
 ```
 
 **`// frontend`**
