@@ -4,7 +4,7 @@
 <tr>
 <td width="40%" valign="top">
 
-<img src="https://github.com/MarcossSantoss/MarcossSantoss/assets/124217083/fb87c8a1-86fe-4d79-916e-46359cca7c27" width="100%"/>
+<img width="1024" height="1536" alt="cat-profile" src="https://github.com/user-attachments/assets/4e3e151f-414a-47d5-ae76-3048214593d1" width="100%"/>
 
 </td>
 <td width="60%" valign="top">
